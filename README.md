@@ -1,6 +1,6 @@
 # Python Crash Course
 
-This is a python crash course notebook and vedio recording. 
+This is a python crash course notebook sessions we had and vedio recording. 
 
 
 | Chapter | Notebook | Recording |
